@@ -1,5 +1,7 @@
 # rdx_status
 
+- [RDX Framework Discord](https://discord.gg/VkhUUGHpNs)
+
 ## Download & Installation
 
 - Download https://github.com/Redm-Extended-PT/rdx_status
